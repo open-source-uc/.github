@@ -13,7 +13,7 @@ Somos una comunidad de estudiantes de la Universidad Católica de Chile trabajan
  <img title="Instagram" src="https://img.shields.io/badge/Instagram-2E3440?style=for-the-badge&logo=instagram&logoColor=white" height="25px">
 </a>
 <a href="https://twitter.com/OpenSource_eUC" target="_blank">
- <img title="Twitter" src="https://img.shields.io/twitter/follow/OpenSource_eUC?color=4d92ac&label=@OpenSource_eUC&logo=twitter&logoColor=white&style=for-the-badge&labelColor=2E3440" height="25px">
+ <img title="Twitter" src="https://img.shields.io/twitter/follow/OpenSource_eUC?color=4d92ac&label=Twitter&logo=twitter&logoColor=white&style=for-the-badge&labelColor=2E3440" height="25px">
 </a>
 <a href="https://www.youtube.com/channel/UCgomWM2oXY-XcB1s1zJs7nw" target="_blank">
  <img title="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCgomWM2oXY-XcB1s1zJs7nw?color=BF616A&logo=YouTube&logoColor=white&style=for-the-badge&label=YouTube&labelColor=2E3440" height="25px">
