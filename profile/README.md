@@ -1,15 +1,16 @@
-## Hola! 👋
+## Hello World! 👋
 
-<img alt="Banner" src="https://raw.githubusercontent.com/open-source-uc/.github/main/profile/img/banner.png">
+<img alt="Banner" src="https://github.com/user-attachments/assets/7ad7564e-2898-4b43-89be-c3346c62c236">
 
-Somos una comunidad de estudiantes de la Universidad Católica de Chile trabajando juntos y juntas para crear y mantener proyectos bacanes y de código abierto. Nuestra misión es formar una comunidad apasionada por el open source y promover la colaboración en diversos proyectos, de distinto ámbito, tamaño y alcance 🚀
+Esto es Open Source eUC – una comunidad de innovación tecnológica estudiantil de la Pontificia Universidad Católica de Chile.
+Trabajamos juntos para crear y mantener proyectos tecnológicos bajo la visión de código abierto.
 
 ### Social
 
 <a href="https://osuc.dev" target="_blank">
  <img title="Web" src="https://img.shields.io/badge/Website-2E3440?style=for-the-badge&logo=git&logoColor=white" height="25px">
 </a>
-<a href="https://www.instagram.com/opensource_euc/" target="_blank">
+<a href="https://www.instagram.com/osuc.dev/" target="_blank">
  <img title="Instagram" src="https://img.shields.io/badge/Instagram-2E3440?style=for-the-badge&logo=instagram&logoColor=white" height="25px">
 </a>
 <a href="https://twitter.com/OpenSource_eUC" target="_blank">
