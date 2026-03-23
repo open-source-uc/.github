@@ -1,4 +1,4 @@
-## Hello World! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=138DFF&reversal=false" alt="header"/> 
 
 <img alt="Banner" src="https://github.com/user-attachments/assets/7ad7564e-2898-4b43-89be-c3346c62c236">
 
@@ -7,27 +7,12 @@ Trabajamos juntos para crear y mantener proyectos tecnológicos bajo la visión 
 
 ### Social
 
-<a href="https://osuc.dev" target="_blank">
- <img title="Web" src="https://img.shields.io/badge/Website-2E3440?style=for-the-badge&logo=git&logoColor=white" height="25px">
-</a>
-<a href="https://www.instagram.com/osuc.dev/" target="_blank">
- <img title="Instagram" src="https://img.shields.io/badge/Instagram-2E3440?style=for-the-badge&logo=instagram&logoColor=white" height="25px">
-</a>
-<a href="https://twitter.com/OpenSource_eUC" target="_blank">
- <img title="Twitter" src="https://img.shields.io/twitter/follow/OpenSource_eUC?color=4d92ac&label=Twitter&logo=twitter&logoColor=white&style=for-the-badge&labelColor=2E3440" height="25px">
-</a>
-<a href="https://www.youtube.com/channel/UCgomWM2oXY-XcB1s1zJs7nw" target="_blank">
- <img title="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCgomWM2oXY-XcB1s1zJs7nw?color=BF616A&logo=YouTube&logoColor=white&style=for-the-badge&label=YouTube&labelColor=2E3440" height="25px">
-</a>
-<a href="https://discord.gg/dASHTdJcx2" target="_blank">
- <img title="Discord" src="https://img.shields.io/discord/830899862278504479?color=876c98&label=discord&logo=discord&logoColor=white&style=for-the-badge&labelColor=2E3440" height="25px">
-</a>
-<a href="https://t.me/open_source_uc" target="_blank">
- <img title="Telegram" src="https://img.shields.io/badge/Telegram-2E3440?style=for-the-badge&logo=Telegram&logoColor=white" height="25px">
-</a>
-<a href="https://linkedin.com/company/open-source-euc" target="_blank">
- <img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2E3440?style=for-the-badge&logo=linkedin&logoColor=white" height="25px">
-</a>
+[![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&shape=circle&animationDuration=4.8&reverseBackground=true&link=https%3A%2F%2Fwww.instagram.com%2Fosuc.dev%2F)](https://www.instagram.com/osuc.dev/)
+[![discord](https://www.readmecodegen.com/api/social-icon?name=discord&shape=circle&animationDuration=4.8&reverseBackground=true&link=https%3A%2F%2Fdiscord.gg%2FdASHTdJcx2)](https://discord.gg/dASHTdJcx2)
+[![telegram](https://www.readmecodegen.com/api/social-icon?name=telegram&shape=circle&animationDuration=4.8&reverseBackground=true&link=https%3A%2F%2Ft.me%2Fopen_source_uc)](https://t.me/open_source_uc)
+[![whatsapp](https://www.readmecodegen.com/api/social-icon?name=whatsapp&shape=circle&animationDuration=4.8&reverseBackground=true&link=https%3A%2F%2Fchat.whatsapp.com%2FDlgnVzGckzI9a06xzyZHJa)](https://chat.whatsapp.com/DlgnVzGckzI9a06xzyZHJa)
+[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&shape=circle&animationDuration=4.8&reverseBackground=true&link=https%3A%2F%2Flinkedin.com%2Fcompany%2Fopen-source-euc)](https://linkedin.com/company/open-source-euc)
+
 
 ### Proyectos
 
