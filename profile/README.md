@@ -7,6 +7,7 @@ Trabajamos juntos para crear y mantener proyectos tecnológicos bajo la visión 
 
 ### Social
 
+<a href="https://www.osuc.dev/"><img alt="Website" src="./svg/Circle Blue Small.svg" width="48" height="48"></a>
 [![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&shape=circle&animationDuration=4.8&reverseBackground=true&link=https%3A%2F%2Fwww.instagram.com%2Fosuc.dev%2F)](https://www.instagram.com/osuc.dev/)
 [![discord](https://www.readmecodegen.com/api/social-icon?name=discord&shape=circle&animationDuration=4.8&reverseBackground=true&link=https%3A%2F%2Fdiscord.gg%2FdASHTdJcx2)](https://discord.gg/dASHTdJcx2)
 [![telegram](https://www.readmecodegen.com/api/social-icon?name=telegram&shape=circle&animationDuration=4.8&reverseBackground=true&link=https%3A%2F%2Ft.me%2Fopen_source_uc)](https://t.me/open_source_uc)
