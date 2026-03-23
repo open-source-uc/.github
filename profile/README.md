@@ -19,7 +19,7 @@ Trabajamos juntos para crear y mantener proyectos tecnológicos bajo la visión 
 <a href="https://www.youtube.com/channel/UCgomWM2oXY-XcB1s1zJs7nw" target="_blank">
  <img title="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCgomWM2oXY-XcB1s1zJs7nw?color=BF616A&logo=YouTube&logoColor=white&style=for-the-badge&label=YouTube&labelColor=2E3440" height="25px">
 </a>
-<a href="https://discord.gg/VMXCNAvjPW" target="_blank">
+<a href="https://discord.gg/dASHTdJcx2" target="_blank">
  <img title="Discord" src="https://img.shields.io/discord/830899862278504479?color=876c98&label=discord&logo=discord&logoColor=white&style=for-the-badge&labelColor=2E3440" height="25px">
 </a>
 <a href="https://t.me/open_source_uc" target="_blank">
